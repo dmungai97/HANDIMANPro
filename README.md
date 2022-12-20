@@ -63,3 +63,8 @@ Details of the machine on which the webapp was tested:
 - Terminal: Windows Power Shell
 - Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz   2.40 GHz
 - RAM: 8 GB
+
+
+![Screenshot (81)](https://user-images.githubusercontent.com/64370903/208755668-9943e8d5-4ac9-4e0f-9ab0-2c05e18d2106.png)
+![Screenshot (82)](https://user-images.githubusercontent.com/64370903/208757298-99750324-4c3f-43c6-a99b-8aa713a393a3.png)
+![Screenshot (80)](https://user-images.githubusercontent.com/64370903/208755675-77f536b7-2313-4a95-a0e2-c0d81ac674e0.png)
